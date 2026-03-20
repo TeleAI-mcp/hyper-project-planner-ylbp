@@ -1,2 +1,3 @@
-# hyper-project-planner-ylbp
-Automated issue comment bot repository
+# Hyper Project Planner Ylbp
+
+Automated issue comment bot repository.
